@@ -1,2 +1,4 @@
 Search Page :As a developer, I will resolve the single page application back button defect so that page functionality is maintained as we roll out single page applications.
 Shop Page  : As a developer, I will resolve the single page application back button defect so that page functionality is maintained as we roll out single page applications.
+Add the Audio in the search box.
+Add video in the search box.
